@@ -1,0 +1,9 @@
+# Ignore compiled binaries and executables
+*.exe
+*.obj
+*.o
+server
+client
+
+# VS Code workspace files
+.vscode/
